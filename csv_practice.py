@@ -1,3 +1,13 @@
+# 1. Excel is easier for quickly viewing, editing, and organizing data.
+# Python is better for automating repeated tasks, handling large datasets,
+# and processing data faster. Excel is more visual and user-friendly, while
+# Python gives more flexibility and control. 
+
+# 2. A buisness could use an append-mode log file to track daily sales 
+# transactions. Each new sale would be added to the file without deleting 
+# previous records. Append mode is useful because it keeps a complete history 
+# of sales over time. 
+
 import csv 
 from datetime import datetime 
 
